@@ -1,0 +1,11 @@
+/Users/tom/Desktop/C#/Primer_App/Primer_App/bin/Debug/netcoreapp3.1/Primer_App.deps.json
+/Users/tom/Desktop/C#/Primer_App/Primer_App/bin/Debug/netcoreapp3.1/Primer_App.runtimeconfig.json
+/Users/tom/Desktop/C#/Primer_App/Primer_App/bin/Debug/netcoreapp3.1/Primer_App.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Primer_App/Primer_App/bin/Debug/netcoreapp3.1/Primer_App.dll
+/Users/tom/Desktop/C#/Primer_App/Primer_App/bin/Debug/netcoreapp3.1/Primer_App.pdb
+/Users/tom/Desktop/C#/Primer_App/Primer_App/obj/Debug/netcoreapp3.1/Primer_App.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Primer_App/Primer_App/obj/Debug/netcoreapp3.1/Primer_App.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Primer_App/Primer_App/obj/Debug/netcoreapp3.1/Primer_App.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Primer_App/Primer_App/obj/Debug/netcoreapp3.1/Primer_App.dll
+/Users/tom/Desktop/C#/Primer_App/Primer_App/obj/Debug/netcoreapp3.1/Primer_App.pdb
+/Users/tom/Desktop/C#/Primer_App/Primer_App/obj/Debug/netcoreapp3.1/Primer_App.genruntimeconfig.cache
